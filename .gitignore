@@ -5,3 +5,6 @@ __pycache__/
 
 # Environments
 venv/
+
+# IDE
+.idea/*
